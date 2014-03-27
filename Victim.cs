@@ -9,6 +9,7 @@ namespace Lab1_3
     {
         void victimMove()
         {
+            //okpjfsdjfpsdfps
         }
         void victimDeath()
         {
