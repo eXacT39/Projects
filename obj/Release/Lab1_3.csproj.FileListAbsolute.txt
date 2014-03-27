@@ -1,0 +1,32 @@
+C:\Users\Push\AppData\Local\Temporary Projects\Lab1_3\bin\Release\Lab1_3.exe
+C:\Users\Push\AppData\Local\Temporary Projects\Lab1_3\bin\Release\Lab1_3.pdb
+C:\Users\Push\AppData\Local\Temporary Projects\Lab1_3\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Push\AppData\Local\Temporary Projects\Lab1_3\obj\Release\Lab1_3.Form1.resources
+C:\Users\Push\AppData\Local\Temporary Projects\Lab1_3\obj\Release\Lab1_3.Properties.Resources.resources
+C:\Users\Push\AppData\Local\Temporary Projects\Lab1_3\obj\Release\Lab1_3.csproj.GenerateResource.Cache
+C:\Users\Push\AppData\Local\Temporary Projects\Lab1_3\obj\Release\Lab1_3.exe
+C:\Users\Push\AppData\Local\Temporary Projects\Lab1_3\obj\Release\Lab1_3.pdb
+C:\Users\Push\Documents\Visual Studio 2008\Projects\Lab1_3\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Push\Documents\Visual Studio 2008\Projects\Lab1_3\obj\Release\Lab1_3.Form1.resources
+C:\Users\Push\Documents\Visual Studio 2008\Projects\Lab1_3\obj\Release\Lab1_3.Properties.Resources.resources
+C:\Users\Push\Documents\Visual Studio 2008\Projects\Lab1_3\obj\Release\Lab1_3.csproj.GenerateResource.Cache
+C:\Users\Push\Documents\Visual Studio 2008\Projects\Lab1_3\obj\Release\Lab1_3.exe
+C:\Users\Push\Documents\Visual Studio 2008\Projects\Lab1_3\obj\Release\Lab1_3.pdb
+C:\Users\Push\Documents\Visual Studio 2008\Projects\Lab1_3\bin\Release\Lab1_3.exe
+C:\Users\Push\Documents\Visual Studio 2008\Projects\Lab1_3\bin\Release\Lab1_3.pdb
+D:\Studing\Всяка разна учёба\4 курс\Zenkin\Graphic\Lab1_3\bin\Release\Lab1_3.exe
+D:\Studing\Всяка разна учёба\4 курс\Zenkin\Graphic\Lab1_3\bin\Release\Lab1_3.pdb
+D:\Studing\Всяка разна учёба\4 курс\Zenkin\Graphic\Lab1_3\obj\Release\ResolveAssemblyReference.cache
+D:\Studing\Всяка разна учёба\4 курс\Zenkin\Graphic\Lab1_3\obj\Release\Lab1_3.Form1.resources
+D:\Studing\Всяка разна учёба\4 курс\Zenkin\Graphic\Lab1_3\obj\Release\Lab1_3.Properties.Resources.resources
+D:\Studing\Всяка разна учёба\4 курс\Zenkin\Graphic\Lab1_3\obj\Release\Lab1_3.csproj.GenerateResource.Cache
+D:\Studing\Всяка разна учёба\4 курс\Zenkin\Graphic\Lab1_3\obj\Release\Lab1_3.exe
+D:\Studing\Всяка разна учёба\4 курс\Zenkin\Graphic\Lab1_3\obj\Release\Lab1_3.pdb
+D:\Studying\4 курс\Zenkin\Graphics\Lab1_3\obj\Release\ResolveAssemblyReference.cache
+D:\Studying\4 курс\Zenkin\Graphics\Lab1_3\obj\Release\Lab1_3.Form1.resources
+D:\Studying\4 курс\Zenkin\Graphics\Lab1_3\obj\Release\Lab1_3.Properties.Resources.resources
+D:\Studying\4 курс\Zenkin\Graphics\Lab1_3\obj\Release\Lab1_3.csproj.GenerateResource.Cache
+D:\Studying\4 курс\Zenkin\Graphics\Lab1_3\obj\Release\Lab1_3.exe
+D:\Studying\4 курс\Zenkin\Graphics\Lab1_3\obj\Release\Lab1_3.pdb
+D:\Studying\4 курс\Zenkin\Graphics\Lab1_3\bin\Release\Lab1_3.exe
+D:\Studying\4 курс\Zenkin\Graphics\Lab1_3\bin\Release\Lab1_3.pdb
